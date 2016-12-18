@@ -19,8 +19,6 @@
  * 20130913 - franciscom - TICKET 5916: It's impossible to login with browser set to italian language (or other language <> english)
  **/
 
-require_once('plugin_api.php');
-
 // lang_load call
 $g_lang_strings = array();
 
